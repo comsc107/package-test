@@ -1,7 +1,7 @@
 {
   "name": "package-test",
   "main": "./lib/package-test",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "บาคาร่า สล็อต บนโทรศัพท์มือถือ ",
   "keywords": [],
   "activationCommands": {
